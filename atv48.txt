@@ -1,0 +1,12 @@
+Segue definições abaixo:
+
+Dados = são números, caracteres ou imagens sem interpretação que podem ser armazenados em algum meio.
+
+Banco de dados = é a organização e armazenagem de informações sobre um domínio específico. 
+
+Modelo de dados = é a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados. 
+
+Metadados = são informações que acrescem aos dados e que têm como objetivo informar-nos sobre eles para tornar mais fácil a sua organização.
+
+Catálogo de dados =  é um inventário dos ativos de dados de uma empresa para que os usuários possam encontrar rapidamente as informações de que precisam.
+
